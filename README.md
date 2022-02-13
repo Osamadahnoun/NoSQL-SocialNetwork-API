@@ -13,7 +13,8 @@
 ![ScreenShot](./images/screenshot.png)
 
 ## Link to Walkthrough Video
-* Placeholder Link
+* [WalkThrough Video Part 1](https://watch.screencastify.com/v/VhkhKKrf8ZKhhzsXBqMU)
+* [WalkThrough Video Part 2](https://watch.screencastify.com/v/UJeziStXebIp4OvcVaMY)
 
 ## Contribution
 NoSQL-SocialNetwork-API mad with love by Osama Dahnoun ❤️
