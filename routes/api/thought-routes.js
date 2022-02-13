@@ -21,7 +21,7 @@ router
 //     .post(createThought)
 
 router
-    .route('/:UserId/:ThoughtId')
+    .route('/:userId/:thoughtId')
     .delete(deleteThought)
 
 router
@@ -30,7 +30,7 @@ router
     .put(updateThought)
 
 router
-    .route('/:thoughtId')
+    .route('/:thoughtId/reactions')
     .post(addReaction)
 
 router
